@@ -13,40 +13,41 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 ```
 
-Change the path of the video and excel files according to your files.
+## Configuration
+Before running the code, update the paths to the video and Excel files according to your local setup.
 
-For problem 1: Run the code in terminal. It might take some time depending on the machine. 
-There are no non-standard libraries used in this code.
+## Execution Instructions
+# Problem 1
+To analyze the red ball movement:
 
-Run the code in the terminal. 
-It should give 5 outputs in this sequence.
-1. The video of the red ball moving, with the center marked green in each frame. 
-2. The plotted graph showing the trajectory of the center of the red ball. 
-3. The plot of fitted parabola 
-4. Equation ofthe curve 
-5. X coordinate of the landing spot of the ball.
+Execute the provided code in the terminal. Runtime may vary based on system performance.
+Expect five sequential outputs:
+A video displaying the red ball's movement, with its center marked in green.
+A graph illustrating the trajectory of the ball's center.
+A plot of the fitted parabola to the ball's trajectory.
+The equation describing the curve.
+The x-coordinate of the ball's landing position.
+Problem 2
+For LiDAR data analysis:
 
-For problem 2: 
-2.1 Run the code in terminal. 
-No non-standard libraries are used. 
-The code should give 2 outputs in this sequence. 
-1. Thecovariance matrix. 
-2. Magnitude and direction of the surface normal.
-
-2.2 Run the code in terminal. 
-RANSAC code might take some time to be
-executed because of the number of iterations. 
-No non-standard libraries
-are used. 
-It will give following outputs in this sequence. 
-1. Least Square for pc1, error. 
-2. Total least square for pc1, error. 
-3. RANSAC for pc1, error. 
-4. Least Square for pc2, error. 
-5. Total least square for pc1, error. 
-6. RANSAC for pc1, error.
-
+Part 2.1
+Run the code in the terminal.
+Outputs will include:
+The covariance matrix.
+The magnitude and direction of the surface normal.
+Part 2.2
+Execute the RANSAC code in the terminal. Note that due to iterations, execution may take some time.
+The following outputs will be provided sequentially:
+Least Square for pc1, including error.
+Total least square for pc1, including error.
+RANSAC for pc1, including error.
+Least Square for pc2, including error.
+Total least square for pc2, including error.
+RANSAC for pc2, including error.
 Results
+The results are visualized in the images below:
+
+
 
 <img src ="Results\Q1\initialplot.png" width=400/>
 <img src ="Results\Q1\fitted.png" width=400/>
