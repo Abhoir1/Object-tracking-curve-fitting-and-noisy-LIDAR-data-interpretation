@@ -1,12 +1,16 @@
-# RED BALL TRACKING AND LIDAR DATA ANALYSIS
-```
-Libraries used: 
-import numpy as np 
-import pandas as pd 
-from matplotlib
-import pyplot as plt 
+# Red Ball Tracking and LiDAR Data Analysis
+
+This README provides guidelines for running the red ball tracking and LiDAR data analysis code.
+
+## Libraries
+
+The following libraries are required. Please install them if not already present:
+
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-```
 
 Change the path of the video and excel files according to your files.
 
