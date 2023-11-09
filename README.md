@@ -44,3 +44,5 @@ It will give following outputs in this sequence.
 Results
 ![Initial Plot](Results\Q1\initialplot.png)
 ![Fitted Plot](Results\Q1\fitted.png)
+
+<img src ="Results\Q1\initialplot.png" width=400/>
