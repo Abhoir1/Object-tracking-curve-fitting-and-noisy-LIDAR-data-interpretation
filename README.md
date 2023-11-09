@@ -58,5 +58,5 @@ The results are visualized in the images below:
 ![Fitted Plot](/Results/Q1/fitted.png)
 
 
-<img src ="Results\Q1\initialplot.png" width=400/>
-<img src ="Results\Q1\fitted.png" width=400/>
+<!-- <img src ="Results\Q1\initialplot.png" width=400/>
+<img src ="Results\Q1\fitted.png" width=400/> -->
