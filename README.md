@@ -40,3 +40,7 @@ It will give following outputs in this sequence.
 4. Least Square for pc2, error. 
 5. Total least square for pc1, error. 
 6. RANSAC for pc1, error.
+
+Results
+![Initial Plot](Results\Q1\initialplot.png)
+![Fitted Plot](Results\Q1\fitted.png)
