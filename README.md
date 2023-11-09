@@ -1,14 +1,14 @@
+#RED BALL TRACKING AND LIDAR DATA ANALYSIS
+```
 Libraries used: 
 import numpy as np 
 import pandas as pd 
 from matplotlib
 import pyplot as plt 
 from mpl_toolkits.mplot3d import Axes3D
+```
 
 Change the path of the video and excel files according to your files.
-
-I have submitted total 3 .py files.
-For problem 1, problem 2.1 and problem 2.2.
 
 For problem 1: Run the code in terminal. It might take some time depending on the machine. 
 There are no non-standard libraries used in this code.
@@ -42,7 +42,6 @@ It will give following outputs in this sequence.
 6. RANSAC for pc1, error.
 
 Results
-![Initial Plot](Results\Q1\initialplot.png)
-![Fitted Plot](Results\Q1\fitted.png)
 
 <img src ="Results\Q1\initialplot.png" width=400/>
+<img src ="Results\Q1\fitted.png" width=400/>
